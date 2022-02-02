@@ -31,7 +31,7 @@ android {
                     // You can then customize attributes of the publication as shown below.
                     groupId = 'com.github.diegomfv'
                     artifactId = 'chatkit'
-                    version = '1.0.2'
+                    version = '1.0.5'
                 }
             }
         }
